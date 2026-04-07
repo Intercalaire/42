@@ -1,0 +1,74 @@
+{
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "intro": "Cette politique de confidentialité décrit la manière dont nous collectons, utilisons et protégeons vos données personnelles lorsque vous utilisez notre site et nos services.",
+    "section1": {
+      "title": "1. Responsable du traitement",
+      "content": "Le responsable du traitement des données est <Quizz Sprint>. Pour toute question concernant vos données, contactez : <vgodart@student.42angouleme.fr>."
+    },
+    "section2": {
+      "title": "2. Données collectées",
+      "intro": "Nous pouvons collecter les catégories de données suivantes :",
+      "items": [
+        "Nous appliquons le principe de minimisation des données. Nous ne collectons que le strict nécessaire :",
+        "Adresse e-mail : Pour la gestion de votre compte (récupération de mot de passe, sécurité).",
+        "Nom d'utilisateur : Pour vous identifier dans les classements du site."
+      ]
+    },
+    "section3": {
+      "title": "3. Utilisation et Partage",
+      "intro": "Zéro Revente :",
+      "items": [
+        "Nous ne vendons, n'échangeons, ni ne louons vos informations personnelles à des tiers. Vos données restent chez Quizz Sprint.",
+        "Vos données servent uniquement au bon fonctionnement du jeu et à l'établissement des scores."
+      ]
+    },
+    "section4": {
+      "title": "4. Cookies et suivi",
+      "content": "Nous utilisons des cookies et technologies similaires pour assurer le fonctionnement du site, mémoriser vos préférences, suivre votre progression aux quiz et analyser l'usage. Les cookies essentiels sont nécessaires au service. Les cookies d'analyse nous aident à améliorer la plateforme. Vous pouvez configurer ou refuser les cookies non essentiels via votre navigateur."
+    },
+    "section5": {
+      "title": "5. Durée de conservation",
+      "content": "Vos données sont conservées tant que votre compte est actif. Comme mentionné dans nos CGU, tout compte inactif depuis plus de 2 ans est intégralement purgé de nos bases de données."
+    },
+    "section6": {
+      "title": "6. Vos Droits (RGPD)",
+      "intro": "Conformément à la réglementation européenne, vous disposez des droits suivants :",
+      "items": [
+        "Droit d'accès et de rectification : Directement via les paramètres de votre compte.",
+        "Droit à l'effacement : Vous pouvez supprimer votre compte à tout moment, ce qui entraînera la suppression immédiate de votre mail et de votre pseudo.",
+        "Droit à la portabilité : Vous pouvez nous demander un export de vos données."
+      ]
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "intro": "Les présentes CGU ont pour objet d'encadrer l'accès et l'utilisation de Quizz Sprint. En créant un compte, vous acceptez ces conditions sans réserve.",
+    "section1": {
+      "title": "1. Accès au service",
+      "content": "Quizz Sprint propose un service de jeux de culture générale en ligne. L'accès est gratuit et nécessite la création d'un compte."
+    },
+    "section2": {
+      "title": "2. Utilisation autorisée",
+      "intro": "Pour participer, l'utilisateur doit fournir :",
+      "items": [
+        "Un nom d'utilisateur (pseudonyme).",
+        "Une adresse e-mail valide.",
+        "L'utilisateur est responsable de la confidentialité de ses identifiants."
+      ]
+    },
+    "section3": {
+      "title": "3. Suspension et Suppression",
+      "intro": "Inactivité :",
+      "items": [
+        "Afin de ne pas stocker de données inutiles, tout compte restant inactif pendant une durée consécutive de 2 ans sera automatiquement supprimé,",
+        "ainsi que l'intégralité des scores associés.",
+        "Comportement : Nous nous réservons le droit de suspendre un compte en cas de triche avérée ou de pseudonyme injurieux."
+      ]
+    },
+    "section4": {
+      "title": "4. Responsabilité",
+      "content": "Quizz Sprint s'efforce d'assurer une disponibilité du service 24h/24. Toutefois, nous ne pourrons être tenus responsables des interruptions de service ou des pertes de données liées à un problème technique indépendant de notre volonté."
+    }
+  }
+}

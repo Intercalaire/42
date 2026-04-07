@@ -1,0 +1,14 @@
+node_modules
+
+# Critical: Never copy secrets into Docker image build context
+file/
+file/*.txt
+file/*.json
+file/*.token*
+.git
+.env
+.env.local
+*.swp
+*.swo
+*~
+.DS_Store

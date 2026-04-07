@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Bespoke';
+  src: url('/fonts/Bespoke/BespokeStencil-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bespoke';
+  src: url('/fonts/Bespoke/BespokeStencil-Italic.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Bespoke';
+  src: url('/fonts/Bespoke/BespokeStencil-Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bespoke';
+  src: url('/fonts/Bespoke/BespokeStencil-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}

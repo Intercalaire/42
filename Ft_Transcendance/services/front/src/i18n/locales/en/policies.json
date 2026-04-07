@@ -1,0 +1,74 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "This privacy policy describes how we collect, use, and protect your personal data when you use our site and services.",
+    "section1": {
+      "title": "1. Data Controller",
+      "content": "The data controller is <Quizz Sprint>. For any questions regarding your data, please contact: <vgodart@student.42angouleme.fr>."
+    },
+    "section2": {
+      "title": "2. Data Collected",
+      "intro": "We may collect the following categories of data:",
+      "items": [
+        "We apply the principle of data minimization. We only collect what is strictly necessary:",
+        "Email address: For account management (password recovery, security).",
+        "Username: To identify you in the site's rankings."
+      ]
+    },
+    "section3": {
+      "title": "3. Use and Sharing",
+      "intro": "Zero Resale:",
+      "items": [
+        "We do not sell, trade, or rent your personal information to third parties. Your data remains with Quizz Sprint.",
+        "Your data is used solely for the proper functioning of the game and the establishment of scores."
+      ]
+    },
+    "section4": {
+      "title": "4. Cookies and Tracking",
+      "content": "We use cookies and similar technologies to ensure the proper functioning of the site, remember your preferences, track your quiz progress, and analyze usage. Essential cookies are necessary for the service. Analytics cookies help us improve the platform. You can configure or reject non-essential cookies through your browser."
+    },
+    "section5": {
+      "title": "5. Retention Period",
+      "content": "Your data is retained as long as your account is active. As mentioned in our Terms of Use, any account that has been inactive for more than 2 years is completely deleted from our databases."
+    },
+    "section6": {
+      "title": "6. Your Rights (GDPR)",
+      "intro": "In accordance with European regulations, you have the following rights:",
+      "items": [
+        "Right of access and rectification: Directly through your account settings.",
+        "Right to erasure: You can delete your account at any time, which will result in the immediate deletion of your email and username.",
+        "Right to data portability: You can request an export of your data from us."
+      ]
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "intro": "These Terms of Use are intended to govern access to and use of Quizz Sprint. By creating an account, you accept these conditions without reservation.",
+    "section1": {
+      "title": "1. Service Access",
+      "content": "Quizz Sprint offers an online general knowledge game service. Access is free and requires the creation of an account."
+    },
+    "section2": {
+      "title": "2. Authorized Use",
+      "intro": "To participate, the user must provide:",
+      "items": [
+        "A username (pseudonym).",
+        "A valid email address.",
+        "The user is responsible for the confidentiality of their login credentials."
+      ]
+    },
+    "section3": {
+      "title": "3. Suspension and Deletion",
+      "intro": "Inactivity:",
+      "items": [
+        "In order not to store unnecessary data, any account remaining inactive for a consecutive period of 2 years will be automatically deleted,",
+        "as well as all associated scores.",
+        "Behavior: We reserve the right to suspend an account in case of proven cheating or offensive username."
+      ]
+    },
+    "section4": {
+      "title": "4. Liability",
+      "content": "Quizz Sprint strives to ensure 24/7 service availability. However, we cannot be held responsible for service interruptions or data loss resulting from a technical problem beyond our control."
+    }
+  }
+}
